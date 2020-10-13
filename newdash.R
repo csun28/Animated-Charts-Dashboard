@@ -5,7 +5,7 @@ rm(list=ls())
 
 #API to retrive data from the QuickBase database 
 #CONFIDENTIAL INFORMATION HAS BEEN ALTERED
-data <- read.csv("https://oic.quickbase.com/db/bna3kag4c?a=api_genresultstable&qid=13&options=csv&usertoken=b36r4h_kmcv_d862fmrd2bj9h2bdzpeggbqa3ywt", header=TRUE)
+data <- read.csv("https://oic.quickbase.com/db/blahblahblah=api_genresultstable&qid=anumber&options=csv&usertoken=somemoreannoyingjunk", header=TRUE)
 
 #select data and separate by grant
 data2 <- data %>% select(`Grant.Name`,`Site`,`Measurable.Skills.Gain`,`Trainings.Lead.to.IRC`,
