@@ -1,0 +1,12 @@
+name: AnimationChartsDashboard
+title: AnimationChartsDashboard
+username:
+account: oicapplication
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3002261
+bundleId: 3734203
+url: https://oicapplication.shinyapps.io/AnimationChartsDashboard/
+when: 1602584294.14068
+asMultiple: FALSE
+asStatic: FALSE
